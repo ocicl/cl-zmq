@@ -1,0 +1,9 @@
+* cl-zmq
+
+Common Lisp bindings to 0mq. Port to 0mq 3.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/freiksenet/cl-zmq.git |
+| commit  | 9acd1fa                                      |
+| systems | cl-zmq                                       |
+|---------+----------------------------------------------|
